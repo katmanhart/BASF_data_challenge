@@ -3,7 +3,7 @@
 This project contains basic data analysis on a sample of transactional data. It consists of three parts: 
 - PART 1: 
 Part 1_BASF_Data cleaning and quality.ipynb
-<br>Jupyter Notebook where you will find more information about data and necessary 
+<br>Jupyter Notebook where you will find more information about data and necessary cleaning
 
 - PART 2: 
 Part2_BASF eda.twb
